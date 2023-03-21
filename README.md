@@ -1,4 +1,4 @@
-# Swiper как в tinder
+# Swiper как в tinder (react.js)
  
 #### :hammer_and_wrench: Стек технологий:
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
